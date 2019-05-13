@@ -101,4 +101,4 @@ We can also use the diagnostic procedure to produce a visualization of the local
 
 # Step 5: use the best parameters and create the C++ config file 
 
-After running our diagnostic procedure we have identified a good setting of parameters for the hashing scheme that we can use to create a config file.
+After running our diagnostic procedure we have identified a good setting of parameters for the hashing scheme that we can use to create a [config file](https://github.com/kexinrong/rehashing/tree/master/hbe/conf).
