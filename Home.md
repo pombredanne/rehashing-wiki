@@ -4,5 +4,4 @@ HBE is a C++ library that includes a [python demo](https://github.com/kexinrong/
 
 ## How to use HBE
 
-
-## Background
+- See install instructions and example usages for the C++ library [here](https://github.com/kexinrong/rehashing/blob/master/hbe/README.md).
